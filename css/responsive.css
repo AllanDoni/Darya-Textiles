@@ -1,0 +1,12 @@
+@media only screen and (max-width:767px) {
+header div.logo img {
+    max-width: 101px;
+}
+	header div.logo img {
+    margin-left: -2px;
+	}
+	.homeleft {
+    margin-left: -40px !important;
+    margin-top: -48px;
+}
+}
